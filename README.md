@@ -9,10 +9,10 @@
 - 📫 How to reach me **rahmatezdev@gmail.com**
 - 📫 First Github account **https://github.com/rahmatez**
 
-<a href="https://github.com/rahmatez">
+<a href="https://github.com/rahmatashari">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahmatashari&count_private=true&show_icons=true&theme=chartreuse-dark" />
 </a>
-<a href="https://github.com/rahmatez">
+<a href="https://github.com/rahmatashari">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmatashari&layout=compact&theme=chartreuse-dark&langs_count=8" />
 </a>
 
