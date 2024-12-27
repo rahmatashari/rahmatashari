@@ -10,10 +10,10 @@
 - 📫 First Github account **https://github.com/rahmatez**
 
 <a href="https://github.com/rahmatez">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahmatez&count_private=true&show_icons=true&theme=chartreuse-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zuramai&count_private=true&show_icons=true&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/rahmatez">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmatez&layout=compact&theme=chartreuse-dark&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuramai&layout=compact&theme=chartreuse-dark&langs_count=8" />
 </a>
 
 ## MY Skills
